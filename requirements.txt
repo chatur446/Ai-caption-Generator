@@ -1,0 +1,4 @@
+Flask==2.0.1
+openai==0.23.1
+Pillow==9.3.0
+ #To run and install  this requirements.txt file " pip install -r requirements.txt " command is used
