@@ -67,7 +67,7 @@ streamlit run app.py
 
 ## 🙋‍♂️ About the Creator
 
-**Manish Kumar Singh**  
+**Ayush Kumar Chaturvedi**  
 🎓 AI & Data Science @ RNSIT, Bengaluru  
 🔗 [GitHub](https://github.com/chatur446) • [LinkedIn](http://www.linkedin.com/in/ayush-chaturvedi73)
 
