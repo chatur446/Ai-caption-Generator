@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 🔗 Links
 
-- 📂 [GitHub Repository](https://github.com/Manishkumarsingh41/aicaption-hastagtool)
+- 📂 [GitHub Repository](https://github.com/chatur446/Ai-caption-Generator)
 - 🧑‍💻 [My Portfolio]
 
 ---
@@ -69,7 +69,7 @@ streamlit run app.py
 
 **Manish Kumar Singh**  
 🎓 AI & Data Science @ RNSIT, Bengaluru  
-🔗 [GitHub](https://github.com/Manishkumarsingh41) • [LinkedIn](http://www.linkedin.com/in/ayush-chaturvedi73)
+🔗 [GitHub](https://github.com/chatur446) • [LinkedIn](http://www.linkedin.com/in/ayush-chaturvedi73)
 
 ---
 
