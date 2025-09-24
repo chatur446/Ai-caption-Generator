@@ -61,7 +61,7 @@ streamlit run app.py
 ## 🔗 Links
 
 - 📂 [GitHub Repository](https://github.com/chatur446/Ai-caption-Generator)
-- 🧑‍💻 [My Portfolio]
+- 🧑‍💻 [My Portfolio](https://github.com/chatur446/MY-PORTFOLIO.git)
 
 ---
 
