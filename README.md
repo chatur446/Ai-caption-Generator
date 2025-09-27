@@ -21,8 +21,8 @@ A simple yet powerful AI tool that **generates creative captions and trending ha
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Manishkumarsingh41/aicaption-hastagtool.git
-cd aicaption-hastagtool
+https://github.com/chatur446/Ai-caption-Generator.git
+cd C:\Users\a\Desktop\aicaption-hastagtool-main
 ```
 
 ### 2. Install dependencies
@@ -61,13 +61,13 @@ streamlit run app.py
 ## 🔗 Links
 
 - 📂 [GitHub Repository](https://github.com/chatur446/Ai-caption-Generator)
-- 🧑‍💻 [My Portfolio]
+- 🧑‍💻 [My Portfolio](https://github.com/chatur446/MY-PORTFOLIO.git)
 
 ---
 
 ## 🙋‍♂️ About the Creator
 
-**Manish Kumar Singh**  
+**Ayush Kumar Chaturvedi**  
 🎓 AI & Data Science @ RNSIT, Bengaluru  
 🔗 [GitHub](https://github.com/chatur446) • [LinkedIn](http://www.linkedin.com/in/ayush-chaturvedi73)
 
