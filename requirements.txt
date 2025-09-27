@@ -1,4 +1,9 @@
 Flask==2.0.1
 openai==0.23.1
-Pillow==9.3.0
- #To run and install  this requirements.txt file " pip install -r requirements.txt " command is used
+Pillow==9.5.0
+requests==2.31.0
+Werkzeug==2.2.3
+itsdangerous==2.1.2
+Jinja2==3.1.2
+
+ #To run and install  this requirements.txt file " pip install -r requirements.txt " command is usedz
